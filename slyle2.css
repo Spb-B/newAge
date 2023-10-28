@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Viaoda+Libre&display=swap');
+
+
+body{
+background: #000;
+}
+
+.header {
+    color: #FFF;
+text-align: right;
+font-family: Viaoda Libre;
+font-size: 64px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+width: 450px;
+height: 90px;
+    margin: 65px auto;
+}
+
+.gallery {
+    display: flex;
+    margin: 100px;
+    grid-gap: 100px;
+    flex-direction: row;
+
+}
+
